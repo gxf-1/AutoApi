@@ -1,1 +1,1 @@
-
+{"error":"invalid_client","error_description":"AADSTS7000215: Invalid client secret is provided.\r\nTrace ID: fb272444-8b38-4b5d-898e-4a06b62cc100\r\nCorrelation ID: 2cb49ef3-68df-4088-a767-84a10e5b364c\r\nTimestamp: 2020-05-15 06:43:51Z","error_codes":[7000215],"timestamp":"2020-05-15 06:43:51Z","trace_id":"fb272444-8b38-4b5d-898e-4a06b62cc100","correlation_id":"2cb49ef3-68df-4088-a767-84a10e5b364c","error_uri":"https://login.microsoftonline.com/error?code=7000215"}
